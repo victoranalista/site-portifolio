@@ -44,13 +44,30 @@ Sistema completo para gestão financeira cartorária
 
 ## 🛠️ Habilidades Técnicas
 
-| Tecnologia |
-|------------|
-| TypeScript | PostgreSQL | 
-| JavaScript | Prisma | 
-| Next.js | Clean Architecture | 
-| Node.js | Kubernetes | 
-| Tailwind CSS | Docker | 
+<h3 align="center">Tecnologia</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">TypeScript</td>
+    <td align="center">JavaScript</td>
+    <td align="center">Node.js</td>
+  </tr>
+  <tr>
+    <td align="center">Next.js</td>
+    <td align="center">Tailwind CSS</td>
+    <td align="center">PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center">Prisma</td>
+    <td align="center">Docker</td>
+    <td align="center">Kubernetes</td>
+  </tr>
+  <tr>
+    <td align="center">Clean Architecture</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 💬 Vamos Conversar?
 
