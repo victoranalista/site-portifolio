@@ -44,8 +44,6 @@ Sistema completo para gestão financeira cartorária
 
 ## 🛠️ Habilidades Técnicas
 
-<h2>🛠️ Habilidades Técnicas</h2>
-
 <table>
   <thead>
     <tr>
@@ -57,21 +55,15 @@ Sistema completo para gestão financeira cartorária
       <td>TypeScript</td>
       <td>JavaScript</td>
       <td>Node.js</td>
-    </tr>
-    <tr>
       <td>Next.js</td>
       <td>Tailwind CSS</td>
-      <td>PostgreSQL</td>
     </tr>
     <tr>
       <td>Prisma</td>
+      <td>PostgreSQL</td>
       <td>Docker</td>
       <td>Kubernetes</td>
-    </tr>
-    <tr>
       <td>Clean Architecture</td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
