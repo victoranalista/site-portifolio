@@ -55,8 +55,15 @@ Sistema completo para gestão financeira cartorária
       <td>TypeScript</td>
       <td>JavaScript</td>
       <td>Node.js</td>
+       <td>Prisma</td>
+       <td>Docker</td>
+    </tr>
+    <tr>
       <td>Next.js</td>
       <td>Tailwind CSS</td>
+      <td>PostgreSQL</td>
+      <td>Clean Architecture</td>
+         <td>Kubernetes</td>
     </tr>
     <tr>
       <td>Prisma</td>
@@ -64,6 +71,11 @@ Sistema completo para gestão financeira cartorária
       <td>Docker</td>
       <td>Kubernetes</td>
       <td>Clean Architecture</td>
+    </tr>
+    <tr>
+      <td>Clean Architecture</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
