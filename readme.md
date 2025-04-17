@@ -12,13 +12,11 @@ Desenvolvedor Fullstack Pleno com experiência em arquitetura limpa, princípios
 ## 💻 Stack de Tecnologias
 
 ```typescript
-const victorTech = {
     frontend: ["TypeScript", "JavaScript", "Next.js", "Tailwind CSS", "Shadcn UI"],
     backend: ["Node.js", "NestJS", "Prisma", "PostgreSQL"],
     architecture: ["Clean Architecture", "Princípios SOLID", "TDD"],
     devOps: ["Docker", "Kubernetes", "Vercel", "Google Cloud"],
     tools: ["Firebase", "NextAuth", "Jest", "ESLint", "Edge Functions"]
-};
 ```
 
 ## 🚀 Projetos em Destaque
