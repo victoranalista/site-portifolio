@@ -41,6 +41,7 @@ Sistema completo para gestão financeira cartorária
 - Automação de pagamentos
 - Análise com GPT API
 - API Rest para integração com sistemas
+- Criptografia RSA-SHA256
 
 ## 🛠️ Habilidades Técnicas
 
