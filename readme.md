@@ -42,24 +42,15 @@ Sistema completo para gestão financeira cartorária
 - Análise com GPT API
 - API Rest para integração com sistemas
 
-## 📊 Minhas Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=victoranalista&show_icons=true&theme=tokyonight)
-
 ## 🛠️ Habilidades Técnicas
 
 | Tecnologia |
 |------------|
-| TypeScript | 
-| JavaScript | 
-| Next.js | 
-| Node.js | 
-| Tailwind CSS | 
-| PostgreSQL | 
-| Docker | 
-| Kubernetes | 
-| Prisma | 
-| Clean Architecture | 
+| TypeScript | PostgreSQL | 
+| JavaScript | Prisma | 
+| Next.js | Clean Architecture | 
+| Node.js | Kubernetes | 
+| Tailwind CSS | Docker | 
 
 ## 💬 Vamos Conversar?
 
