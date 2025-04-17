@@ -44,30 +44,38 @@ Sistema completo para gestão financeira cartorária
 
 ## 🛠️ Habilidades Técnicas
 
-<h3 align="center">Tecnologia</h3>
+<h2>🛠️ Habilidades Técnicas</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">TypeScript</td>
-    <td align="center">JavaScript</td>
-    <td align="center">Node.js</td>
-  </tr>
-  <tr>
-    <td align="center">Next.js</td>
-    <td align="center">Tailwind CSS</td>
-    <td align="center">PostgreSQL</td>
-  </tr>
-  <tr>
-    <td align="center">Prisma</td>
-    <td align="center">Docker</td>
-    <td align="center">Kubernetes</td>
-  </tr>
-  <tr>
-    <td align="center">Clean Architecture</td>
-    <td></td>
-    <td></td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" align="center">Tecnologia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TypeScript</td>
+      <td>JavaScript</td>
+      <td>Node.js</td>
+    </tr>
+    <tr>
+      <td>Next.js</td>
+      <td>Tailwind CSS</td>
+      <td>PostgreSQL</td>
+    </tr>
+    <tr>
+      <td>Prisma</td>
+      <td>Docker</td>
+      <td>Kubernetes</td>
+    </tr>
+    <tr>
+      <td>Clean Architecture</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
+
 
 ## 💬 Vamos Conversar?
 
